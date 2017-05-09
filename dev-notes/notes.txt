@@ -1,0 +1,26 @@
+Terminologies
+=============
+application related terms and their meanings.
+
+
+
+General
+=======
+general notes that does fit under any specifc category.
+
+
+Dev env
+--------
+application development environment configuration.
+
+
+
+
+WHAT NOW
+=========
+what part of the application is under development.
+
+
+WHAT NEXT
+=========
+what should tackled next.

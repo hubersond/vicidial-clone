@@ -1,0 +1,16 @@
+CALLER ID NAME CODES DOC	Started: 2013-07-15	Updated: 2013-07-15
+
+
+This document is meant for reference only, and it does not contain all CID name codes possible, but more will be added over time.
+
+
+M - Manual Dial Call (M7152249180000855319)
+V - Auto-Dial Call (V7152252280000844707)
+Y - Inbound Call (Y7152252510000822239)
+J - Inbound CLOSER Transfer (J7152252510000822239)
+DC - 3-Way Call (DC943083W0000855319W)
+S - Agent Login Call (S1307152248588600051)
+LP - Park Call (LPvdcW13739432176666)
+VH - Inbound Agent Alert (VH7152252518600051)
+XLvdc - Agent ReQueue Call (XLvdcW13739431946666)
+AGMON - Remote Agent Monitor (AGMON715224918000001)

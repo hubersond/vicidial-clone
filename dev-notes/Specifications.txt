@@ -1,0 +1,25 @@
+Functionality 
+=============
+what problem does it solves?
+
+
+Application specifications 
+==========================
+
+
+
+Features
+========
+
+
+
+Technologies requirements  
+=========================
+
+> dependencies:
+
+
+
+Milestones 
+==========
+Project start date:
